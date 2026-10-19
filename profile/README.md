@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/spotter-header.png" alt="Spotter — SnowRunner Minimap" width="100%">
+  <img src="https://raw.githubusercontent.com/SpotterMod/.github/main/profile/assets/spotter-header.png" alt="Spotter — SnowRunner Minimap" width="100%">
 </p>
 
 <p align="center">
