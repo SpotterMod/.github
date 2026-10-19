@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>A GTA-style minimap and driving overlay for SnowRunner.</b>
+  <b>A minimap and driving overlay for SnowRunner.</b>
 </p>
 
 ---
